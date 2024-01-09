@@ -1,4 +1,4 @@
-# saudacao-horario
-Programa que responde Bom dia, Boa tarde ou Boa noite dependendo da hora informada pelo usuário. 
+# greeting-time
+Software created to display "Good morning, Good evening or Goodnight" depending on the user input.
 
-Feito para detectar quando o usuário informa algo além de números, ou quando informa horários usando dois pontos. Também consegue impedir que o usuário informe minutos acima de 59. 
+Made to detect anything other than numbers, double dots and minutes above 60.
